@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Branice Nashilu Simaloi",
+    "role": "Backend"
+  },
+  {
+    "id": "2",
+    "name": "Wilter Seneiya Nashilu ",
+    "role": "Frontend"
+  },
+  {
+    "id": "3",
+    "name": "Irene Kite Alut",
+    "role": "Frontend"
+  },
+  {
+    "id": "4",
+    "name": "Dana Dek Del",
+    "role": "DevOps"
+  },
+  {
+    "id": "5",
+    "name": "Esther Kuria ",
+    "role": "DevOps"
+  },
+  {
+    "id": "6",
+    "name": "Jeremy Koske",
+    "role": "Frontend"
+  },
+  {
+    "id": "7",
+    "name": "Anita Alu Akoro",
+    "role": "Backend"
+  },
+  {
+    "id": "9",
+    "name": "Betty Oluoch Akoth",
+    "role": "DevOps"
+  },
+  {
+    "id": "10",
+    "name": "Sankale Terachi Ololchike",
+    "role": "Frontend"
+  }
+]

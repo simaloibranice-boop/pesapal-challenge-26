@@ -1,0 +1,1 @@
+{"users": {"columns": {"id": "int", "name": "text", "role": "text"}, "pk": "id", "unique": []}}
